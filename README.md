@@ -73,6 +73,46 @@
 <info></info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SEXO [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD6F750D104D12C56E5D88174DE993A63ED3CAD9</link>
+<thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEXO [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95EF27886E3152207001A86F4BFA65E483B3DAC2</link>
+<thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEXO [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50741EB82E10EC528B287FB8630BA9FB2E12B927</link>
+<thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEXO [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07F566769DE6BFF820697A09379DFB71AAE90FFB</link>
+<thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEXO [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E7B2298ADEB0D2465D10995D929A23796315CA1D</link>
+<thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
 
 
 
