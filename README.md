@@ -3,6 +3,14 @@
 
 <item>
 <title>[COLOR silver][B]  SEXO  [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69A8010A2C20EDBA9597F5EC2AB97D96296EE52B</link>
+<thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  SEXO  [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2B7F161E22D80AAC52DCE74DD2B9C9AD1EC715F</link>
 <thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
