@@ -3,6 +3,46 @@
 
 <item>
 <title>[COLOR silver][B]  SEXO  [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2B7F161E22D80AAC52DCE74DD2B9C9AD1EC715F</link>
+<thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  SEXO  [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9E1164B0778941D1490E51729D3A0A51D50A8DB</link>
+<thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  SEXO  [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90B3B53BE8CAB5142F42378AC9049679AAA4D2C1</link>
+<thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  SEXO  [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD6F750D104D12C56E5D88174DE993A63ED3CAD9</link>
+<thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  SEXO  [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E1D61918A62378E7C327509A0ED867AC5E57DEF0</link>
+<thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  SEXO  [/COLOR][/B][COLOR yellow]  18+ PUTORRENT  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ACF85F706B632FCB2F6FABB454C18FFC92C4D80C</link>
 <thumbnail>https://ia904705.us.archive.org/22/items/18_20221124_20221124_1509/TESTE.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
